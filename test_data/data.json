@@ -1,0 +1,36 @@
+[
+
+   {
+      "username":"User1",
+      "password":"user123"
+   },
+   { 
+      "username":"",
+      "password":""
+   },
+   { 
+      "username":"Admin",
+      "password":""
+   },
+   { 
+      "username":"",
+      "password":"admin123"
+   },
+   { 
+      "username":" Admin",
+      "password":" admin123"
+   },
+   { 
+      "username":"Admin ",
+      "password":"admin123 "
+   },
+   { 
+      "username":"abecedabedeabecdee",
+      "password":"quququshhshsh"
+   },
+   { 
+      "username":"@#$%^^&&^%%$##",
+      "password":"^$^$^$^&&&####"
+   }
+
+]
